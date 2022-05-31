@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Docker , Kubernetes , Linux , Vm , cloud**
 
-- 📫 How to reach me chakorn.panasutakarn@gmail.com**
+- 📫 How to reach me chakorn.panasutakarn@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
