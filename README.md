@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Chakorn Panasutakarn</h1>
-<h3 align="center">I'm 🎓Graduated from Rajamangala University of Technology Thanyaburi</h3>
+<h3 align="center">I'm 🎓Graduated from Rajamangala University of Technology Thanyaburi</h3><br>
+<h3 align="center">currently i'm 💻 working System engineer at Avalant Co.,Ltd. </h3><br>
 
-- 🌱 I’m currently learning **Docker , Kubernetes , Linux , Vm , cloud**
-
+- 📚 I’m currently learning **Docker , Kubernetes , Linux , Vm , cloud**
 - 📫 How to reach me chakorn.panasutakarn@gmail.com
 
 <h3 align="left">Connect with me:</h3>
