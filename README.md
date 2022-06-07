@@ -4,7 +4,7 @@
 <h3 align="center">Currently I'm 💻 working System engineer at Avalant Co.,Ltd. </h3><br>
 
 - 📚 I’m currently learning **Docker , Kubernetes , Linux , Vm , cloud**
-- 📫 How to reach me chakorn.panasutakarn@gmail.com
+- 📫 How to reach me chakorn.panasutakarn1997@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
