@@ -10,7 +10,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,kubernetes,docker,aws,gcp,azure,linux,bash,vim,vscode,html,css,php,bootstrap,nginx,mongodb,mysql,postgres,redis " />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,kubernetes,docker,aws,gcp,azure,linux,bash,vim,vscode,html,css,php,bootstrap,nginx,mongodb,mysql,postgres,redis,jenkins,terraform,ansible,openshift " />
   </a>
 
 
