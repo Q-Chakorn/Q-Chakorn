@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chakorn Panasutakarn</h1>
 <h3 align="center">I'm 🎓Graduated from Rajamangala University of Technology Thanyaburi</h3>
 <h3 align="center">Bachelor degree of Computer Engineering</h3>
-<h3 align="center">Currently I'm 💻 working System engineer at Avalant Co.,Ltd. </h3><br>
+<h3 align="center">Currently I'm 💻 working System engineer at TTB Bank </h3><br>
 
 - 📚 currently I’m learning **Docker , Kubernetes , Linux , Vm , cloud**
 - 📫 How to reach me chakorn.panasutakarn1997@gmail.com
