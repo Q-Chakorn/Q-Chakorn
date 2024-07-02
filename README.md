@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Chakorn Panasutakarn</h1>
 <h3 align="center">I'm 🎓Graduated from Rajamangala University of Technology Thanyaburi</h3>
 <h3 align="center">Bachelor degree of Computer Engineering</h3>
-<h3 align="center">Currently I'm 💻 working System engineer at TTB Bank </h3><br>
+<h3 align="center">Currently I'm 💻 working Devops engineer at TTB Bank </h3><br>
 
-- 📚 currently I’m learning **Docker , Kubernetes , Linux , Vm , cloud**
+- 📚 currently I’m learning **Docker , Kubernetes , Linux , AWS , GCP , Azure , terraform**
 - 📫 How to reach me chakorn.panasutakarn1997@gmail.com
 - <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chakorn-panasutakarn-808bb823a/" height="30" width="40" />
 
